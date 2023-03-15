@@ -1,7 +1,12 @@
-#Gilmar Jr.
+# Gilmar Jr.
 
 ---
-##Experiencias
--Vendedor de picolé
--Garçom e entregador
--Auxiliar financeiro
+## Experiencias
+
+- Vendedor de picolé
+
+- Garçom e entregador
+
+- Auxiliar financeiro
+
+---
