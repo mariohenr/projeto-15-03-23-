@@ -5,4 +5,5 @@
 ##Dados Pessoais
 -Idade: 45
 -Estado civil: Enrolado
+-Email: euamoMario@gmail.com
 
