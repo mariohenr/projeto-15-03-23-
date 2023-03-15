@@ -1,5 +1,4 @@
-
-# Gilmar J. G. F.
+# Gilmar Jr.
 
 ---
 ## Dados Pessoais
@@ -12,4 +11,12 @@
 
 - Numero de Telefone: 14 7070 se não der 70 de novo
 
+## Experiencias
+
+- Vendedor de picolé
+
+- Garçom e entregador
+
+- Auxiliar financeiro
 ---
+
